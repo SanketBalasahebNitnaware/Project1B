@@ -1,0 +1,5 @@
+Task Two (SQL):
+The table below indicates the search results of ‘dog’ and ‘cat’ on Twitter, position column represents
+each position the search result came in, and the rating column represents the rating allotted to the
+search result (1 to 5 rating, where 5 is high relevance and 1 is low relevance).
+Write a query to compute a metric to measure the quality of the search results for each query.
